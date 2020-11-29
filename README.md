@@ -1,2 +1,2 @@
 # OtoVision
-Xilinx OtoNix or Xilinx based Otoscopy Using Neural Image Indexing
+Xilinx OtoNix or Xilinx based Otoscopy Using Neural Image Classification
